@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+    font-size: large;
+    font-family: monospace
+
+}
+body{
+    background-color: coral;
+  }
+  
+h1{
+    font-size: 40px;
+}
+button{
+    width: 200px;
+    height: 35px;
+    background-color: green;
+    border-radius: 55px;
+    color: black;
+    border: 5px solid black;
+}
